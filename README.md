@@ -3,6 +3,6 @@
 
 <p>Bu projede Html, Css kullanılmıştır. Gelişimimiz açısından yararlı bir çalışma olmuştur.</p>
 
-<img src="./ekrang">
-<img src="./ekrang1">
-<img src="./ekrang2">
+<img src=".img/ekrang.png">
+<img src=".img/ekrang1.png">
+<img src=".img/ekrang2.png">
